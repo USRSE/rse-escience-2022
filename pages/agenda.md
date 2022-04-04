@@ -16,15 +16,15 @@ Date TBD
     - 15 min: Q & A
 - TBD – Break
 - TBD – Session 2 (150 min)
-    - 60 min: Short talks
-    - 10 min: Q & A
+    - 40 min: Short talks
+    - 30 min: Panel Discussion / Q & A
     - 5 min: Short break / organize breakout groups
     - 60 min: Breakout group discussions
     - 15 min: Report-backs from breakout groups
 - TBD – Break / Meal
 - TBD – Session 4 (150 min)
-    - 60 min: Short talks
-    - 10 min: Q & A
+    - 40 min: Short talks
+    - 30 min: Panel Discussion / Q & A
     - 5 min: Short break / organize breakout groups
     - 60 min: Breakout group discussions
     - 15 min: Report-backs from breakout groups
