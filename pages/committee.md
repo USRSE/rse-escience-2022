@@ -11,7 +11,7 @@ permalink: /committee/
 - Lance Parsons, Princeton University, USA
 - Daniel S. Katz, University of Illinois Urbana-Champaign, USA
 
-## eScience 2022 Program Committee
+## Program Committee
 
 - Katerina Antypas, Lawrence Livermore National Laboratory, USA
 - Malcolm Atkinson, The University of Edinburgh, UK
