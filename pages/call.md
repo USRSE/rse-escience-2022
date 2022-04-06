@@ -6,8 +6,9 @@ permalink: /call/
 
 We encourage prospective participants to [submit full papers](https://www.escience-conference.org/2022/call-for-papers)
 (10 pages, IEEE format) on topics related to RSE achievements, experiences, or
-solutions in eScience. A full paper is not required to participate - abstracts
-(max 300 words) will also be accepted.
+solutions in eScience. A full paper is not required to participate - short
+papers (max 4 pages) and/or abstracts (max 300 words) will also be accepted,
+but will **NOT** be published in the proceedings.
 
 Possible topics include (but are not limited to):
 - RSE solutions in eScience
@@ -15,8 +16,8 @@ Possible topics include (but are not limited to):
 - The RSE perspective on an eScience contribution
 - The non-RSE perspective of collaboration with RSEs in eScience efforts
 
-For those who choose to submit in lieu of the official
-process, we will ask the authors of accepted submissions to self-publish (after
+For those who choose to submit short papers and/or abstracts,
+we will ask the authors of accepted submissions to self-publish (after
 revisions, if applicable) to an archival repository (e.g., Zenodo, arxiv). Our
 website will then provide links to the self-published documents.
 
@@ -29,7 +30,7 @@ and from members of groups that have historically been underrepresented in the
 eScience community.
 
 Submission website:
-TBD
+https://easychair.org/conferences/?conf=rseescience2022
 
 ### Timeline
 
