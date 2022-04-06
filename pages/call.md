@@ -30,7 +30,7 @@ and from members of groups that have historically been underrepresented in the
 eScience community.
 
 Submission website:
-https://easychair.org/conferences/?conf=rseescience2022
+[EasyChair](https://easychair.org/conferences/?conf=rseescience2022)
 
 ### Timeline
 
