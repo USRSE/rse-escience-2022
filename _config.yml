@@ -19,7 +19,7 @@ twitter-img: /assets/img/main_logo.png  # url + baseurl will be prepended
 title: Research Software Engineers in eScience
 
 # Short description of your site
-description: RSE-ESCIENCE-2022 Workshop at eScience 2022
+description: RSE-eScience-2022 Workshop at eScience 2022
 
 # --- Navigation bar options --- #
 
@@ -39,15 +39,14 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#CF7C68"
+navbar-col: "#590040"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#CF7C68"
-page-col: "#F7F1EB"
-link-col: "#D57362"
+navbar-children-col: "#590040"
+link-col: "#8a296f"
 hover-col: "#0085A1"
 footer-col: "#F1E7DE"
 footer-text-col: "#363D52"
-footer-link-col: "#D57362"
+footer-link-col: "#8a296f"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
