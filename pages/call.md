@@ -21,7 +21,7 @@ we will ask the authors of accepted submissions to self-publish (after
 revisions, if applicable) to an archival repository (e.g., Zenodo, arxiv). Our
 website will then provide links to the self-published documents.
 
-Accepted submitters will also be invited to present at
+Accepted submitters will also be invited to present in-person at
 the workshop, after which there will be a short panel discussion and then breakout
 sessions with the larger group of attendees.
 
