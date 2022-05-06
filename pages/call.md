@@ -44,5 +44,5 @@ Submission website:
 
 ### Questions?
 
-Contact the organizers: [outreach_wg@us-rse.org](mailto:outreach_wg@us-rse.org)
+Contact the organizers: [wg-outreach@us-rse.org](mailto:wg-outreach@us-rse.org)
 
