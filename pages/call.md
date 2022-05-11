@@ -35,7 +35,7 @@ Submission website:
 ### Timeline
 
 - Submissions open:  Monday, April 11, 2022
-- Paper submissions due (to be included with official proceedings):  Monday, May 16, 2022 - **NO EXTENSIONS**
+- Paper submissions due (to be included with official proceedings):  Monday, May 31, 2022 - **NO EXTENSIONS**
 - Notifications sent:  Monday, June 27, 2022
 - Paper/abstract submissions due (will NOT be included with official proceedings): Monday, July 11, 2022
 - Notifications sent:  Monday, July 25, 2022
