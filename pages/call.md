@@ -36,9 +36,9 @@ Submission website:
 
 - Submissions open:  Monday, April 11, 2022
 - ~~Full paper submissions due (to be included with official proceedings):  Tuesday, May 31, 2022~~
-- Notifications sent:  Monday, June 27, 2022
-- Abstract/short paper submissions due (will NOT be included with official proceedings): Monday, July 11, 2022
-- Notifications sent:  Monday, July 25, 2022
+- ~~Notifications sent:  Monday, June 27, 2022~~
+- Abstract/short paper submissions due (will NOT be included with official proceedings): Monday, July 18, 2022 - **EXTENDED**
+- Notifications sent:  Monday, August 1, 2022
 - Program finalized:  Monday, August 15, 2022
 - Workshop date:  TBD
 
