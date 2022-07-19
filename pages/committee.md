@@ -13,8 +13,9 @@ permalink: /committee/
 
 ## Program Committee
 
-- Joshua Teves
-- David Nicholson
-- Nasir Eisty
-- Rafael Mudafort
 - Richard Abdill
+- Nasir Eisty
+- Dan Gunter
+- Rafael Mudafort
+- David Nicholson
+- Joshua Teves
