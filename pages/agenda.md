@@ -77,7 +77,7 @@ Moderator: Miranda Mundt
 </tr>
 <tr>
   <td>3:30 PM</td>
-  <td><b>Organize breakout discussion</b></td>
+  <td><i>Organize breakout discussions</i></td>
 </tr>
 <tr>
   <td>3:35 PM</td>
