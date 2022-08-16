@@ -16,7 +16,7 @@ as computational and data analysis tools. The authors have worked with several
 such research groups to design, develop, and deploy such web applications that
 are increasingly based on Jupyter notebooks. One of the primary reasons among
 many to use Jupyter notebooks is the fact that research groups inheriting these
-pplications are capable of maintaining and extending them. In this paper, we
+applications are capable of maintaining and extending them. In this paper, we
 walk through the design process for one such application and discuss 
 development environments that are best suited to Jupyter notebook development.
 We then explore several other applications where we employ similar design
@@ -75,7 +75,7 @@ studies into effective strategies for RSEs.
 
 *Caleb Jackson*
 
-Abstract	The chief question I will address is: in a sea of open-source
+The chief question I will address is: in a sea of open-source
 projects, how might mid- or senior-level developers best mentor early career
 developers? As a software engineering apprentice, I have had the unique
 experience of swimming through open-source projects and ultimately finding
