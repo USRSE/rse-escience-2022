@@ -75,7 +75,7 @@ studies into effective strategies for RSEs.
 
 *Caleb Jackson*
 
-Abstract	The chief question I will address is: in a sea of open-source
+The chief question I will address is: in a sea of open-source
 projects, how might mid- or senior-level developers best mentor early career
 developers? As a software engineering apprentice, I have had the unique
 experience of swimming through open-source projects and ultimately finding
