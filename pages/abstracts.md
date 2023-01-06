@@ -22,7 +22,9 @@ development environments that are best suited to Jupyter notebook development.
 We then explore several other applications where we employ similar design
 patterns. In doing so, we expound upon the benefits, limitations, and
 challenges of Notebook-based applications to provide a guide for other
-facilitators in similar situations
+facilitators in similar situations.
+
+[Presentation](/assets/files/BenefitsandLimitationsofJupyterbasedWebApps.pdf)
 
 ---
 
@@ -40,6 +42,8 @@ authorization mechanism as well as addressing FAIR (Findable, Accessible,
 Interoperable, Reusable) principles. One of the most important aspects are the
 needs of the specific community for each science gateway on features and
 user interface. 
+
+[Presentation](/assets/files/GesingeScienceRSE2022RolesofProfessionalResearchSoftwareEngineers.pdf)
 
 ---
 
@@ -68,6 +72,8 @@ experience report on the challenges and lessons learned during feature
 development by the first author. We hope our study provides a holistic
 view on scientific library development and surfaces opportunities for future
 studies into effective strategies for RSEs.
+
+[Presentation](/assets/files/FY23Q1_RSEWorkshop_halfPrecisionReport.pdf)
 
 ---
 
@@ -104,6 +110,8 @@ utilize these strategies; most folks in this field guide others in some
 capacity. All in all, I aim to show how mentorship plays a crucial role in
 growing diverse and sustainable teams within the workplace. 
 
+[Presentation](/assets/files/mentorship_eScience_2022.pdf)
+
 ---
 
 ### Best practices and Learned Lessons in Refactoring Researcher-Developed Statistical R Packages
@@ -132,3 +140,5 @@ and test cases.
 Our two years' experience shows how taking care of small, yet important
 details can help researchers and RSEs in building sustainable and better
 scientific software. 
+
+[Presentation](/assets/files/Naeem_KH_Mahmood_MShad_eScience_2022.pdf)
