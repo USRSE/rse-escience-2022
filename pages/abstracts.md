@@ -24,7 +24,7 @@ patterns. In doing so, we expound upon the benefits, limitations, and
 challenges of Notebook-based applications to provide a guide for other
 facilitators in similar situations.
 
-[Presentation]({{ site.url }}/usrse23/assets/files/BenefitsandLimitationsofJupyterbasedWebApps.pdf)
+[Presentation](https://github.com/USRSE/rse-escience-2022/blob/main/assets/files/BenefitsandLimitationsofJupyterbasedWebApps.pdf)
 
 ---
 
@@ -43,7 +43,7 @@ Interoperable, Reusable) principles. One of the most important aspects are the
 needs of the specific community for each science gateway on features and
 user interface. 
 
-[Presentation]({{ site.url }}/usrse23/assets/files/GesingeScienceRSE2022RolesofProfessionalResearchSoftwareEngineers.pdf)
+[Presentation](https://github.com/USRSE/rse-escience-2022/blob/main/assets/files/GesingeScienceRSE2022RolesofProfessionalResearchSoftwareEngineers.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ development by the first author. We hope our study provides a holistic
 view on scientific library development and surfaces opportunities for future
 studies into effective strategies for RSEs.
 
-[Presentation]({{ site.url }}/usrse23/assets/files/FY23Q1_RSEWorkshop_halfPrecisionReport.pdf)
+[Presentation](https://github.com/USRSE/rse-escience-2022/blob/main/assets/files/FY23Q1_RSEWorkshop_halfPrecisionReport.pdf)
 
 ---
 
@@ -110,7 +110,7 @@ utilize these strategies; most folks in this field guide others in some
 capacity. All in all, I aim to show how mentorship plays a crucial role in
 growing diverse and sustainable teams within the workplace. 
 
-[Presentation]({{ site.url }}/usrse23/assets/files/mentorship_eScience_2022.pdf)
+[Presentation](https://github.com/USRSE/rse-escience-2022/blob/main/assets/files/mentorship_eScience_2022.pdf)
 
 ---
 
@@ -141,4 +141,4 @@ Our two years' experience shows how taking care of small, yet important
 details can help researchers and RSEs in building sustainable and better
 scientific software. 
 
-[Presentation]({{ site.url }}/usrse23/assets/files/Naeem_KH_Mahmood_MShad_eScience_2022.pdf)
+[Presentation](https://github.com/USRSE/rse-escience-2022/blob/main/assets/files/Naeem_KH_Mahmood_MShad_eScience_2022.pdf)
